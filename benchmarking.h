@@ -3,7 +3,7 @@
 //            ========= lib para benchmarking =========
 //
 // void ms() plota tempo de execução em ms
-// double dt() retorna o tempo de exercução em ms
+// double dt() retorna o tempo de execução em ms
 //
 // obs 1 - chamar a função nas extremidades do código a ser testado
 // obs 2 - chamar um par de função por vez
